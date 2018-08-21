@@ -10,4 +10,4 @@ class TestLogin:
         assert 1
         
     def test_login4(self):
-        my_pring("abd")
+        
